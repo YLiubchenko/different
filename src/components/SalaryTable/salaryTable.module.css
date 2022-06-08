@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body{
+    margin: 0 auto;
+}
+
+.table {
+    width: 500px;
+    height: auto;
+    border: 1px solid red;
+}
+
+.row {
+    display: flex;
+}
+
+.cell {
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    border: 1px solid black;
+}
