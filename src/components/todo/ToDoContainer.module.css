@@ -1,0 +1,21 @@
+.toDoContainer{
+    width: 400px;
+    height: 100%;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.toDoItem{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.description{
+    margin: 5px;
+}
+
+.listName{
+    text-align: center;
+    color: #390ac7c7;
+}
